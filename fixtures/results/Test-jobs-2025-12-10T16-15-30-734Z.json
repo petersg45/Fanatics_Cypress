@@ -1,0 +1,14 @@
+{
+  "keyword": "Test",
+  "totalJobs": 1,
+  "jobs": [
+    {
+      "title": "Software Engineer in Test II",
+      "location": "United States",
+      "link": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24227/?keyword=Test&mode=location",
+      "postedDate": "08/11/2025"
+    }
+  ],
+  "searchUrl": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs?keyword=Test&mode=location",
+  "timestamp": "2025-12-10T16:16:12.004Z"
+}
